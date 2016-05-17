@@ -1,1 +1,1 @@
-Docker file with curl and git preinstalled on top of ubuntu 16.04
+Docker file with curl and git preinstalled on top of `debian:latest`
